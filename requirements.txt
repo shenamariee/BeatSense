@@ -1,5 +1,5 @@
 streamlit
-wfdb
+wfdb==4.1.0
 numpy
 pandas==2.2.2
 scipy
